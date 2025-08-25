@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Nayab829/Nayab829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Hi, I'm Nayab 👋
+# Hi, I'm Nayab 👋
 
 🚀 Aspiring Web Developer | React.js | Next.js | Tailwind CSS  
 
@@ -28,11 +20,3 @@ Here are some ideas to get you started:
 ## 📫 Contact
 - 📧 Email: nayabg829@gmail.com  
 - 🔗 LinkedIn: *(add later)*  
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
