@@ -9,13 +9,22 @@
 - Git & GitHub  
 
 ## 📂 Projects
-- 🛒 [Sneaker E-commerce Website](https://github.com/Nayab829/sneaker-project)  
-- ✅ [Todo App](https://github.com/Nayab829/todo-app)  
-- 🎮 [Tic Tac Toe Game](https://github.com/Nayab829/tic-tac-toe)  
-- More on my [GitHub Repos](https://github.com/Nayab829)
 
-## 📊 GitHub Stats
-![Nayab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayab829&show_icons=true&theme=radical)
+### 🖥️ React.js Projects
+- 🎮 [Tic Tac Toe](https://tictactoe-vu.netlify.app/)  
+- 🍽️ [Recipe Cards with Filters](https://resturant-cards.netlify.app/)  
+- 👟 [Sneakers Collection (E-Commerce)](https://sneakers-collect.netlify.app/shop)  
+
+### ⚡ JavaScript / HTML / CSS Projects
+- ⏰ [Analog Clock](https://analogclockvu.netlify.app/)  
+- 🔐 [Random Password Generator](https://randpasswordgenerate.netlify.app/)  
+- 📝 [Quick Noter](https://quicknoter.netlify.app/)  
+- 💾 [Save Form Data](https://savefromdata.netlify.app/)  
+- ✅ [Todo List](https://mytodolistvu.netlify.app/)  
+- 🎨 [Gradient Generator](https://gradientgenrat.netlify.app/)  
+
+
+
 
 ## 📫 Contact
 - 📧 Email: nayabg829@gmail.com  
