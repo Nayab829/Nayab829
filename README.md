@@ -1,10 +1,11 @@
 # Hi, I'm Nayab 👋
 
-🚀 Aspiring Web Developer | React.js | Next.js | Tailwind CSS  
+🚀 Aspiring Web Developer | React.js | Next.js | Node.js| Tailwind CSS  
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript  
-- React.js, Next.js  
+- React.js, Next.js
+- Node.js, Express.js  
 - Tailwind CSS  
 - Git & GitHub  
 
